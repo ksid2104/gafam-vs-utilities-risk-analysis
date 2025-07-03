@@ -51,18 +51,19 @@ This project aims to compare two sectors – Big Tech (GAFAM) and Utilities – 
 streamlit run risk_app.py
 
 ---
-## What This Project Says About Me: 
+
+## What This Project Says About Me:
+
 This project is more than just a technical exercise: it reflects my ability to apply data skills to real-world financial problems. Here’s what it will tell you about me:
 
-🎯 Structured analytical mindset: each step in the code is designed as a rigorous, reproducible, and interpretable analysis process.
+🎯 **Structured analytical mindset**: each step in the code is designed as a rigorous, reproducible, and interpretable analysis process.
 
-📊 Solid understanding of financial risk: strong command of key indicators (volatility, VaR, return distribution), relevant for risk-sensitive sectors.
+📊 **Solid understanding of financial risk**: strong command of key indicators (volatility, VaR, return distribution), relevant for risk-sensitive sectors.
 
-🧠 Autonomy & curiosity: I developed this project independently, consolidating my knowledge in quantitative finance and Python through external resources.
+🧠 **Autonomy & curiosity**: I developed this project independently, consolidating my knowledge in quantitative finance and Python through external resources.
 
-💡 Ability to communicate technical results clearly: visualizations and comments are decision-oriented, as expected in a company or consulting environment.
+💡 **Ability to communicate technical results clearly**: visualizations and comments are decision-oriented, as expected in a company or consulting environment.
 
-⚙️ Willingness to upskill quickly: although I’m new to Streamlit, I managed to build an interactive app by leveraging AI intelligently, showcasing adaptability.
+⚙️ **Willingness to upskill quickly**: although I’m new to Streamlit, I managed to build an interactive app by leveraging AI intelligently, showcasing adaptability.
 
-📌 If you're looking for a hybrid finance-data profile with an entrepreneurial mindset: this project is a good reflection of it.
-
+📌 **If you're looking for a hybrid finance-data profile with an entrepreneurial mindset**: this project is a good reflection of it.
