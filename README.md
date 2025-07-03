@@ -50,7 +50,7 @@ This project aims to compare two sectors – Big Tech (GAFAM) and Utilities – 
 ```bash
 streamlit run risk_app.py
 
-
+---
 ## What This Project Says About Me: 
 This project is more than just a technical exercise: it reflects my ability to apply data skills to real-world financial problems. Here’s what it will tell you about me:
 
