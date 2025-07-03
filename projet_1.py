@@ -1,11 +1,3 @@
-
-
-
-
-
-
-# Faire Var hsitorique vs Var theorisque (normale)
-
 # ─────────────────────────────────────────────────────────────────
 # PROJET : Analyse de performance et de risque sectorielle (GAFAM vs Utilities)
 # Objectifs : 
