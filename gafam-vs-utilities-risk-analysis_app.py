@@ -1,5 +1,5 @@
 #--------------------------------------------------------#
-# Streamlit App
+# Streamlit App ( to run the app : "streamlit run risk_app.py")
 #--------------------------------------------------------#
 import streamlit as st
 import matplotlib.pyplot as plt
