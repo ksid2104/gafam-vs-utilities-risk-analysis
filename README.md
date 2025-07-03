@@ -48,7 +48,7 @@ This project aims to compare two sectors – Big Tech (GAFAM) and Utilities – 
 ## ▶️ Running the Streamlit App
 
 ```bash
-streamlit run risk_app.py
+streamlit run risk_app.py"""
 
 ---
 
